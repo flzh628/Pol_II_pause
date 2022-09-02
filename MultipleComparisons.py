@@ -1,3 +1,5 @@
+# For difference analysis of non-normally distributed data
+
 import numpy as np
 import scipy.stats as stats
 from PvalueAdjust import BH_qvalues
